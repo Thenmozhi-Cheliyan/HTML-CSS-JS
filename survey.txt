@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form Survey</title>
+<script src="sample.js"></script>
+</head>
+<body>
+<h1> WELCOME </h1>
+<p> SAMPLE SURVEY </p>
+<div>
+<label for="name">Name</label>
+<input type="text" id="username">
+<button id="btn">SUMBIT</button>
+</div>
+</body>
+</html>
